@@ -18,16 +18,18 @@ const Navigation = () => {
               <Icon
                 name="Flame"
                 size={24}
-                className="text-library-gold candle-glow"
+                className="text-orange-400 candle-glow drop-shadow-lg"
+                style={{ color: "#ff7f00" }}
               />
               <Icon
                 name="Feather"
                 size={16}
-                className="absolute -top-1 -right-1 text-library-gold"
+                className="absolute -top-1 -right-1 text-purple-400"
+                style={{ color: "#9f7aea" }}
               />
             </div>
             <span className="text-xl font-bold font-serif">
-              DUSKWOOD LIBRARY
+              DUSKWOOD LIBRARY SEARCH
             </span>
           </Link>
 

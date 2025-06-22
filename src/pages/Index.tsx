@@ -17,18 +17,20 @@ const Index = () => {
               <Icon
                 name="Flame"
                 size={64}
-                className="text-library-gold candle-glow"
+                className="text-orange-400 candle-glow drop-shadow-2xl"
+                style={{ color: "#ff7f00" }}
               />
               <Icon
                 name="Feather"
                 size={32}
-                className="absolute -top-2 -right-2 text-library-gold"
+                className="absolute -top-2 -right-2 text-purple-400"
+                style={{ color: "#9f7aea" }}
               />
             </div>
           </div>
 
           <h1 className="text-5xl font-bold font-serif mb-6 text-primary">
-            DUSKWOOD LIBRARY
+            DUSKWOOD LIBRARY SEARCH
           </h1>
 
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">

@@ -36,10 +36,12 @@
 
     --radius: 0.5rem;
 
-    --library-brown: 30 45% 30%;
-    --library-light-brown: 30 30% 85%;
-    --library-cream: 30 25% 95%;
-    --library-gold: 45 60% 70%;
+    --library-brown: 30 35% 25%;
+    --library-light-brown: 30 25% 75%;
+    --library-cream: 30 20% 90%;
+    --library-gold: 45 85% 65%;
+    --candle-orange: 25 95% 60%;
+    --feather-purple: 280 65% 70%;
   }
 
   body {
